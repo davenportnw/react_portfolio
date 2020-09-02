@@ -1,5 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+import {BrowserRouter as Router, Route} from "react-router-dom";
+import NavBar from "./components/NavBar";
+import Wrapper from "./components/Wrapper";
 import './App.css';
 
 function App() {
