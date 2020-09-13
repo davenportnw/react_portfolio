@@ -9,4 +9,4 @@ const Resume = () => {
     );
 }
 
-export default Contact;
+export default Resume;
