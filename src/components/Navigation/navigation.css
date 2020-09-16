@@ -1,0 +1,65 @@
+
+
+.navMenu {
+    max-width: 10000    px;
+    margin: auto;
+    border-color: #BBC8DE;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px;
+}
+
+li {
+    padding: 10px 0;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-right: 20px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    float: right;
+    border: #151B25, solid, 2px;
+}
+
+
+/* button {
+    font-size: 30px;
+    margin-right: 30px;
+    color: white;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    float: right;
+} */
+
+.navBar {
+    width: 100%;
+    background-color: #BBC8DE;
+    color: white;
+    height: 80px;
+    padding: 10px
+}
+
+.links {
+    height: 0;
+    overflow: hidden;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+/* Media screen size */
+@media screen and (min-width: 768px) {
+    button {
+        display: none;
+    }
+
+    .links {
+        height: auto;
+        display: flex;
+    }
+
+    li {
+        padding: 0 15px;
+    }
+}

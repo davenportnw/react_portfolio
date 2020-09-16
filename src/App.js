@@ -1,20 +1,22 @@
 import React, {Component} from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 
-import Home from './components/Home';
-import About from './components/About';
-import Contact from './components/Contact';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Home from './components/Home/Home';
+import About from './components/About/About';
+import Contact from './components/Contact/Contact';
 import Error from './components/Error';
-import Navigation from './components/Navigation';
-import Portfolio from './components/Portfolio';
-import Resume from './components/Resume';
+import Navigation from './components/Navigation/Navigation.js';
+import Portfolio from './components/Portfolio/Portfolio.js';
+import Resume from './components/Resume/Resume.js';
 // import { Nav } from 'react-bootstrap';
 
 class App extends Component {
     render() {
         return(
             <BrowserRouter>
-            <div>
+            <div className="NavHeader">
                 <Navigation/>
                 <Switch>
                     <Route path="/" component={Home} exact/>
