@@ -1,10 +1,12 @@
 import React from 'react';
+import resume from '../assets/resume.png';
 import './resume.css';
+
+
 const Resume = () => {
     return (
         <div>
-            <h1>Resume below</h1>
-            <p>Get it here.</p>
+            <img src={resume} alt="resume"/>
         </div>
     );
 }

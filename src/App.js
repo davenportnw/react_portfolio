@@ -10,6 +10,7 @@ import Error from './components/Error';
 import Navigation from './components/Navigation/Navigation.js';
 import Portfolio from './components/Portfolio/Portfolio.js';
 import Resume from './components/Resume/Resume.js';
+import '@phuocng/react-pdf-viewer/cjs/react-pdf-viewer.css';
 // import { Nav } from 'react-bootstrap';
 
 class App extends Component {

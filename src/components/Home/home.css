@@ -1,0 +1,31 @@
+
+.nicole {
+    margin: 10px;
+    text-align: center;
+    order: 5;
+    color:#151B25;
+    text-emphasis: none;
+    font-size: 32px;
+    flex-direction:row;
+}
+
+p {
+    color:black;
+    align-self: center;
+    order: 5;
+    flex-direction: row;
+}
+
+
+.body{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+
+}
+.headshot {
+    border-radius: 50%;
+    box-shadow: #192E41 20px 20px;
+    align-content: center;
+    flex-direction:row;
+}
