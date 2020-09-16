@@ -6,7 +6,7 @@ import './resume.css';
 const Resume = () => {
     return (
         <div>
-            <img src={resume} alt="resume"/>
+            <img src={resume} alt="resume"/>    
         </div>
     );
 }
