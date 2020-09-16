@@ -21,6 +21,7 @@ const Navigation = () => {
 
     return (
       <div className="navBar">
+        <h3 className="initials">N.W.D</h3>
         <ul>
           <li>
             <NavLink to="/">Home</NavLink>
