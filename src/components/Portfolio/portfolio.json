@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Random Password Generator",
+        "image": "",
+        "description": "Create a random password to use.",
+        "link": "https://davenportnw.github.io/JS_Password_Generator/",
+        "github": "https://github.com/davenportnw/JS_Password_Generator"
+    },
+    {
+        "id": 2,
+        "name": "Campsite Finder",
+        "image": "",
+        "description": "Find a campsite to camp in!",
+        "link": "https://lvgraham.github.io/GitConnected-Project/",
+        "github": "https://github.com/lvgraham/GitConnected-Project"
+    }
+]

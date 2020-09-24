@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Home from './components/Home/Home';
 import About from './components/About/About';
@@ -10,11 +9,13 @@ import Error from './components/Error';
 import Navigation from './components/Navigation/Navigation.js';
 import Portfolio from './components/Portfolio/Portfolio.js';
 import Resume from './components/Resume/Resume.js';
-import '@phuocng/react-pdf-viewer/cjs/react-pdf-viewer.css';
-// import { Nav } from 'react-bootstrap';
 
-class App extends Component {
-    render() {
+import portfolio from './components/Portfolio/portfolio.json';
+
+
+// class App extends Component {
+
+function App() {
         return(
             <BrowserRouter>
             <div className="NavHeader">
@@ -29,8 +30,9 @@ class App extends Component {
                 </Switch>
             </div>
             </BrowserRouter>
+            
         )
-    }
+    
 }
 
 export default App;

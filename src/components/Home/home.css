@@ -1,19 +1,12 @@
 
-.nicole {
-    margin: 10px;
-    text-align: center;
-    order: 5;
-    color:#151B25;
-    text-emphasis: none;
-    font-size: 32px;
-    flex-direction:row;
-}
 
-p {
+.header{
     color:black;
     align-self: center;
     order: 5;
     flex-direction: row;
+    width: 50%;
+    margin-left: 150px;
 }
 
 
@@ -25,7 +18,9 @@ p {
 }
 .headshot {
     border-radius: 50%;
-    box-shadow: #192E41 20px 20px;
-    align-content: center;
+    border-style: groove;
+    margin-left: 60px;
+    margin-top: 50px;
+    box-shadow: 2px 2px #CC3300;
     flex-direction:row;
 }

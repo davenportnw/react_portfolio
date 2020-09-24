@@ -26,7 +26,7 @@ li {
     margin-top: 15px;
     margin-left: 15px;
     width: 15%;
-    color:#151B25;
+    color: white;
 }
 /* button {
     font-size: 30px;
@@ -41,7 +41,7 @@ li {
 
 .navBar {
     width: 100%;
-    background-color: #BBC8DE;
+    background-color: #192E41;
     color: white;
     height: 80px;
     padding: 10px
