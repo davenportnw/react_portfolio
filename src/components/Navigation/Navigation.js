@@ -30,9 +30,6 @@ const Navigation = () => {
             <NavLink to="/about">About Me</NavLink>
           </li>
           <li>
-            <NavLink to="/contact">Contact</NavLink>
-          </li>
-          <li>
             <NavLink to="/portfolio">Portfolio</NavLink>
           </li>
           <li>

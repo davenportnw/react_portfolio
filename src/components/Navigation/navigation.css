@@ -11,9 +11,9 @@
 li {
     padding: 10px 0;
     font-size: 15px;
-    margin-top: -35px;
+    margin-top: -40px;
     margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -52,6 +52,7 @@ li {
     overflow: hidden;
     list-style-type: none;
     font-weight: bold;
+    color: white;
 }
 
 /* Media screen size */

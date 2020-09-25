@@ -5,7 +5,6 @@ import portriat from '../assets/aboutme.jpg';
 const About = () => {
     return (
         <div className="body">
-            
             <img src={portriat} alt="portrait" height="500px" width="500px" className="portrait"/>
             <p className="description">Hello, my name is Nicole Davenport. When I was two years old I was adopted from south China!
           I’ve always been a passionate and curious person, wanting to expand my knowledge on whatever crossed my way. I am currently enrolled at the University of Texas in Austin’s Coding Bootcamp. I am excited to challenge and expand my knowledge in coding the next six months. 
