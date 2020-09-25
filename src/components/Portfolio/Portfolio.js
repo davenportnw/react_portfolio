@@ -5,9 +5,13 @@ import portfolio from '../Portfolio/portfolio.json';
 
 
 class Portfolio extends Component {
-    state = {
+    
+  constructor() {
+    super();
+  
+  this.state = {
         portfolio
-    };
+  }};
 
 render() {
   return (

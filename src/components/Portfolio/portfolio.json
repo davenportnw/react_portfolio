@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Random Password Generator",
-        "image": "",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/25/44bb3caeecc97838c3de7e8b3dd9c4c3-full.jpg",
         "description": "Create a random password to use.",
         "link": "https://davenportnw.github.io/JS_Password_Generator/",
         "github": "https://github.com/davenportnw/JS_Password_Generator"
@@ -10,9 +10,41 @@
     {
         "id": 2,
         "name": "Campsite Finder",
-        "image": "",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/25/f32b7b8b4bbacff49e0e289ff7df29bd-full.png",
         "description": "Find a campsite to camp in!",
         "link": "https://lvgraham.github.io/GitConnected-Project/",
         "github": "https://github.com/lvgraham/GitConnected-Project"
+    },
+    {
+        "id": 3,
+        "name": "Note Taker",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/25/704fd9e43059141d30b26e37cc6c0743-full.png",
+        "description": "Take and save notes using a easy to use application!",
+        "link": "https://blooming-taiga-41986.herokuapp.com/",
+        "github": "https://github.com/davenportnw/note_taker"
+    },
+    {
+        "id": 4,
+        "name": "Employee Tracker",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/25/208bfae1aa19b35783078c127d267d4f-full.png",
+        "description": "Track your employee information using your terminal!",
+        "link": "N/A",
+        "github": "https://github.com/davenportnw/employee_tracker"
+    },
+    {
+        "id": 5,
+        "name": "Employee Directory",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/25/0d021afbb26a2cfdbfb77c9853716305-full.png  ",
+        "description": "Employee directory using ReactJS",
+        "link": "https://davenportemployeedirectory.herokuapp.com",
+        "github": "https://github.com/davenportnw/employee_directory"
+    },
+    {
+        "id": 6,
+        "name": "Burger App",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/25/e6e04e2705f868a464955a551b216ef3-full.png",
+        "description": "Keep track of the burgers you want to try and have tried!",
+        "link": "N/A",
+        "github": "https://github.com/davenportnw/burger_app"
     }
 ]

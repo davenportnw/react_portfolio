@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 
 
@@ -10,7 +10,6 @@ import Navigation from './components/Navigation/Navigation.js';
 import Portfolio from './components/Portfolio/Portfolio.js';
 import Resume from './components/Resume/Resume.js';
 
-import portfolio from './components/Portfolio/portfolio.json';
 
 
 // class App extends Component {
